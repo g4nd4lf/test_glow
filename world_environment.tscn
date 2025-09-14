@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4k346s505wxr"]
+
+[ext_resource type="Environment" uid="uid://bmywey8w6bceb" path="res://resources/raffa_environment2.tres" id="1_hwmvi"]
+
+[node name="WorldEnvironment" type="WorldEnvironment"]
+environment = ExtResource("1_hwmvi")
